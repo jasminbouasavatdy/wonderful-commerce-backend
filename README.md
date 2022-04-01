@@ -16,6 +16,10 @@
 ## Installation
 npm install
 
+(dotenv, sequelize, sql)
+
+
+
 ## Usage
 You must import the database. Use mySQL and run the schema, and seed information to view it. You must also have expresse,dotenv, sequalize to view everything as well.
 
