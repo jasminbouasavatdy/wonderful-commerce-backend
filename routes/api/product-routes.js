@@ -113,8 +113,7 @@ router.delete('/:id', async (req, res) => {
         id: req.params.id,
       },
     });
-    // ask anthony why itd does this...
-    if (!productData[0]) {
+    if (!productData) {
       res.status(404).json({ message: 'No user with this id!' });
       return;
     }

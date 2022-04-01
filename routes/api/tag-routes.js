@@ -67,7 +67,7 @@ router.delete('/:id', async (req, res) => {
         id: req.params.id,
       },
     });
-    if (!tagData[0]) {
+    if (!tagData) {
       res.status(404).json({ message: 'No user with this id!' });
       return;
     }
