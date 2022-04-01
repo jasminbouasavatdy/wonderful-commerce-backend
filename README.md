@@ -23,6 +23,14 @@ You must import the database. Use mySQL and run the schema, and seed information
 
 ## Video
 
-[Click to watch a walkthrough video of the team generator](https://drive.google.com/file/d/1lXct7f5x9kPXduJdtOaN5go0mhGnWelT/view)
+[Click to watch a walkthrough video of the Categorys walkthrough!](https://drive.google.com/file/d/1i2b2s1hPDSiklBwUHuxYxYoTKfln0Xbt/view)
+
+[Click to watch a walkthrough video of the Products walkthrough!](https://drive.google.com/file/d/1yclQFIaybTnsODjfDEaCVltb80UPT3Sy/view)
+
+[Click to watch a walkthrough video of the Tags walkthrough!](https://drive.google.com/file/d/1JBtCPyTmAh2eO_dyHzsbfqJC1F8_rFUn/view)
+
+
+
+
 ## Deployed
 [Click to go to my GitHub repo](https://github.com/jasminbouasavatdy/wonderful-commerce-backend)
